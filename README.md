@@ -1,2 +1,5 @@
 # hello-world
-just another repository.
+Hello Everyone!!!
+
+I'm Pranjali....
+I'm Angular begginer...
